@@ -248,6 +248,21 @@ name = 'Liz Kaplan'
 name
 ```
 
+### Working with Python Variables
+```python 
+x_float = 23.23
+print(x_float)
+x_int = int(x_float)
+print(x_int)
+print(2+4)
+print('123 + 234 = ', 123 + 234)
+```
+```python 
+print('this is me'.upper())
+print('simon ortega'.endswith('ortega'))
+print('nazanin'.capitalize())
+```
+
 ### Summary
 
 In this lesson, we got a taste for what makes computer programs so powerful.  By using variables, we can write programs that know how to combine data.  This can save us time by avoiding boring, repetitive tasks.  We declare and assign a variable with the pattern of `variable = data`, and reassign a variable with the same pattern.  To reference a variable, we simply type the variable's name.  
